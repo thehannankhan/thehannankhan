@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MERN
 - 💬 Ask me what I think about the fermi paradox 
 - 📫 Catch up with my latest articles (Tech, AI, DIY, and Design): https://starvingsocrates.wordpress.comlinkedin.com/in/hkhanofficial
-- 🏢 My LinkedIn Profile: linkedin.com/in/hkhanofficial
+- 🏢 My LinkedIn Profile: https://linkedin.com/in/hkhanofficial
 <!--
 **thehannankhan/thehannankhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
