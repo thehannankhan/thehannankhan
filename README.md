@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on Responsive Web Design
 - 🌱 I’m currently learning MERN
 - 💬 Ask me what I think about the fermi paradox 
-- 📫 Catch up with my latest articles on Tech, AI, DIY, and Design: https://starvingsocrates.wordpress.com
+- 📫 Catch up with my latest articles (Tech, AI, DIY, and Design): https://starvingsocrates.wordpress.com
 <!--
 **thehannankhan/thehannankhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
