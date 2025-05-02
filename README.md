@@ -1,4 +1,4 @@
-[![Hannan has a lot of ideas.](https://github.com/thehannankhan/thehannankhan/blob/main/LinkedIn%20Banner.png?raw=true)](https://www.Twitter.com/HannanKhan_)
+[![Hannan has a lot of ideas.](https://github.com/thehannankhan/thehannankhan/blob/main/LinkedIn%20Banner%2000.jpg?raw=true)](https://www.Twitter.com/HannanKhan_)
 
 ### Hi there 👋
 - 🔭 I’m currently working on Responsive Web Design
