@@ -2,27 +2,16 @@
 
 ### Hi there 👋
 - 🔭 I’m currently working on Responsive Web Design
-- 🌱 I’m currently learning MERN
-- 💬 Ask me what I think about the fermi paradox 
+- 🌱 I’m currently learning AI
+- 💬 Ask me what I think about the Fermi Paradox. 
 - 🏢 My LinkedIn: https://linkedin.com/in/thehannankhan
-- 📫 Catch up with my latest blog posts:
 - (Design) https://starvingsocrates.wordpress.com
 - (Coding) https://dev.to/hannankhan
-- (My Experience) https://thehannankhan.medium.com/
 
-
+### Stats 📊
 ![Hannan's GitHub stats](https://github-readme-stats.vercel.app/api?username=thehannankhan&show_icons=true&theme=merko)
-<!--
-**thehannankhan/thehannankhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thehannankhan&show_icons=true&theme=merko&langs_count=8)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Repos 👨‍💻
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thehannankhan&repo=youtube-to-mp3-converter&theme=merko&langs_count)](https://github.com/thehannankhan/youtube-to-mp3-converter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thehannankhan&repo=interactive-US-states&theme=merko&langs_count)](https://github.com/thehannankhan/interactive-US-states)
