@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Responsive Web Design
 - 🌱 I’m currently learning MERN
 - 💬 Ask me what I think about the fermi paradox 
-- 🏢 My LinkedIn: https://linkedin.com/in/hkhanofficial
+- 🏢 My LinkedIn: https://linkedin.com/in/thehannankhan
 - 📫 Catch up with my latest blog posts:
 - (Design) https://starvingsocrates.wordpress.com
 - (Coding) https://dev.to/hannankhan
